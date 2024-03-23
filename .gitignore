@@ -6,3 +6,7 @@ build
 *.mp3
 *.flac
 *.o
+audio_transport.code-workspace
+output
+.DS_Store
+.vscode
